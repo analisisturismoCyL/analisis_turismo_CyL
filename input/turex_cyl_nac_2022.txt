@@ -1,0 +1,13 @@
+procedencia;turistas
+Francia;437316
+Portugal;175074
+Reino Unido;65658
+Alemania;55359
+Italia;45781
+Países Bajos;38854
+Bélgica;38822
+Estados Unidos;22476
+Irlanda;6185
+Resto de Europa;85122
+Resto de América;33399
+Resto del Mundo;12462
